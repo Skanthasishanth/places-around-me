@@ -264,5 +264,7 @@ can be booked for a stipulated time period during which the event has to take pl
 ![output](/images/cineplex.png)
 #### Fort:
 ![output](/images/fort.png)
+## HTML VALIDATOR:
+![htmlv](/images/validator.png)
 ## Result:
 Thus image mapping has been accomplished
